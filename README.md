@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Qun
+- 👋 Hi, I’m Qun.
 - 👀 I’m interested in stationary.
 <!---
 - 🌱 I’m currently learning ...
