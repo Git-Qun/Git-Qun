@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Qun.
-- 👀 I’m interested in stationary.
+
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
